@@ -18,7 +18,7 @@
 <hr>
 <h2>License</h2>
 <ul>
-<li><span>This project is under the MIT license. See file </span><a href="">LICENSE</a><span> for more details.</span></li>
+<li><span>This project is under the MIT license. See file </span><a href="https://github.com/mfcastilho/calculate_multiplication_tables/blob/main/LICENSE">LICENSE</a><span> for more details.</span></li>
 </ul>
 
 
